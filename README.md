@@ -1,1 +1,18 @@
-# mehul
+# 💫 About Me:
+🔭 I'm currently working on<br>Building hands-on labs in network traffic analysis, port scanning & vulnerability assessment using Wireshark and Nmap on Kali Linux.<br><br>🤝 I'm looking to collaborate on<br>Cybersecurity projects, CTF challenges, ethical hacking scripts, or open-source security tools — especially anything around network monitoring or penetration testing.<br><br>🆘 I'm looking for help with<br>Advancing into cloud security (AWS/Azure security fundamentals) and building my first real-world SOC dashboard or SIEM log analysis project.<br><br>🌱 I'm currently learning<br>Penetration testing methodologies, authentication & authorization mechanisms, encryption protocols, and working through TryHackMe / Hack The Box labs.<br><br>💬 Ask me about<br>Wireshark packet analysis, Nmap scanning techniques, Kali Linux basics, networking fundamentals (TCP/IP, OSI model), or getting started in cybersecurity as a fresher.<br><br>⚡ Fun facts<br><br>I can read network packets the way others read news — Wireshark is basically my morning newspaper.<br>Chess player who treats every security problem like an endgame puzzle — always thinking 3 moves ahead.<br>Solo traveler who has realized that navigating unknown places and navigating unknown networks require the same mindset — curiosity first.<br>Got into cybersecurity because I wanted to understand how things break before learning how to build them.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mehulparmar882) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehulparmarr1@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mehulparmar35&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mehulparmar35&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mehulparmar35&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=mehulparmar35&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
